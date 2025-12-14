@@ -339,6 +339,7 @@ body {
                 p {
                     @apply font-semibold text-4xl max-w-2xs;
                 }
+
                 .apple-gradient {
                     @apply p-10 rounded-3xl flex items-center gap-7 relative;
 
