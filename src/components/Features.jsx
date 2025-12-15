@@ -95,7 +95,6 @@ const Features = () => {
                 <StudioLights/>
                 <ambientLight intensity={0.5}/>
                 <ModelScroll/>
-
             </Canvas>
 
             <div className="absolute inset-0">
